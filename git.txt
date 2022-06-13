@@ -1,0 +1,2 @@
+Git is software for tracking changes to files.
+Github is the central location for your Git files.
